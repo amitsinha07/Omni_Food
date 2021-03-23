@@ -3,4 +3,3 @@
 
 * This is a front-end Food Ordering web application.
 * This is built using HTML, CSS and JavaScript.
-* Link of this site is 
